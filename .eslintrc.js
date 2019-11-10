@@ -30,6 +30,7 @@ module.exports = {
     'react/static-property-constructor': 'off',
     'react/static-property-placement': 'off',
     'react/jsx-props-no-spreading': 'off',
+    'react/sort-comp': 'off',
     'react/jsx-filename-extension': [
       'warn',
       {
