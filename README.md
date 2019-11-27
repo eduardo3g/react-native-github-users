@@ -24,7 +24,7 @@ React Native mobile app to add users and check their starred repositories from G
 ### Features
 
 - Add users from Github
-- List their starred repositories
+- List their starred repositories with infinite scroll
 - Repositories pagination
 - Filter repositories
 - Webview to render Github repository page inside the mobile app
