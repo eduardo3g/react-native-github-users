@@ -3,7 +3,7 @@
 React Native mobile app to add users and check their starred repositories from GitHub.
 
 ### How it looks like
-<p align="center"><img src="https://media.licdn.com/dms/image/C4D22AQF9RRDt2Adivw/feedshare-shrink_800/0?e=1577923200&v=beta&t=7SVzKveyaKaOlR1rjSWYfQe4vxh-TvyXNzrPVQEXJ6M" /></p>
+<p align="center"><img src="https://media-exp2.licdn.com/dms/image/C4D22AQHFriaMj-LIxg/feedshare-shrink_800/0?e=1581552000&v=beta&t=7EhGa6g_ivyOJSkcHV8z8FGa4azu8OatQq9XaqdeF_w" /></p>
 
 ### What I used to develop this application
 
